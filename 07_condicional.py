@@ -1,3 +1,4 @@
+#Terminado
 #Condicional if
 #if('prueba logica o Condición')
 numero = int(input('Señor usuario, digite un número: '))
